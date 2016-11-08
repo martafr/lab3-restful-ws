@@ -31,7 +31,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 559207 | RUEDA MACÍAS, DANIEL
 610344 | SALUEÑA SEDILES, ASIER
 680182 | SANZ ALCAINE, JORGE
-534521 | SANZ VIDAL, AITOR
+534521 | SANZ VIDAL, AITOR | [test repo](https://github.com/aitorsanz/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/aitorsanz/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/aitorsanz/lab3-restful-ws)
 618051 | TOLON MARTÍN, CARLOS JAVIER
 643821 | VELA GARCÍA, JUAN
 679609 | VIÑUALES SÁNCHEZ, PABLO

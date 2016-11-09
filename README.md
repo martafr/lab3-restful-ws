@@ -25,7 +25,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO | [test repo](https://github.com/luisemz/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/luisemz/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/luisemz/lab3-restful-ws)
 650448 | MURILLO MAGDALENA, JAVIER | [test repo](https://github.com/javmurillo/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/javmurillo/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/javmurillo/lab3-restful-ws)
 453948 | NAVARRO CLARAS, MARIO
-647973 | PERALTA MARTÍNEZ, SANTIAGO
+647973 | PERALTA MARTÍNEZ, SANTIAGO | [test repo](https://github.com/SantiagoPeralta/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/SantiagoPeralta/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/SantiagoPeralta/lab3-restful-ws)
 683546 | PÉREZ CANCER, BEATRIZ | [test repo](https://github.com/beapc18/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/beapc18/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/beapc18/lab3-restful-ws)
 686329 | ROIG JIMENEZ, ANA | [test repo](https://github.com/anicacortes/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/anicacortes/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/anicacortes/lab3-restful-ws)
 559207 | RUEDA MACÍAS, DANIEL | [test repo](https://github.com/danirueda/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/danirueda/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/danirueda/lab3-restful-ws) 

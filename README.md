@@ -17,6 +17,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 680669 | GUIU PÉREZ, ALEJANDRO
 682531 | JUAN CIRIACO, ÁLVARO
 544393 | LAHOZ EGEA, CRISTINA | [test repo](https://github.com/cristinalahoz/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/cristinalahoz/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/cristinalahoz/lab3-restful-ws)622612 | MARTIN SEGURA, SERGIO
+622612 | MARTIN SEGURA, SERGIO
 681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/Belberus/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/Belberus/lab3-restful-ws)
 576307 | MARTÍNEZ PÉREZ, ADRIAN
 540891 | MENENDEZ MOYA, FRANCISCO | [test repo](https://github.com/fmenemo/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/fmenemo/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/fmenemo/lab3-restful-ws)
@@ -27,9 +28,9 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 647973 | PERALTA MARTÍNEZ, SANTIAGO
 683546 | PÉREZ CANCER, BEATRIZ | [test repo](https://github.com/beapc18/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/beapc18/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/beapc18/lab3-restful-ws)
 686329 | ROIG JIMENEZ, ANA | [test repo](https://github.com/anicacortes/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/anicacortes/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/anicacortes/lab3-restful-ws)
-559207 | RUEDA MACÍAS, DANIEL | [test repo](https://github.com/danirueda/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/danirueda/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/danirueda/lab3-restful-ws)
+559207 | RUEDA MACÍAS, DANIEL | [test repo](https://github.com/danirueda/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/danirueda/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/danirueda/lab3-restful-ws) 
 610344 | SALUEÑA SEDILES, ASIER | [test repo](https://github.com/asierhandball/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/asierhandball/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/asierhandball/lab3-restful-ws)
-680182 | SANZ ALCAINE, JORGE
+680182 | SANZ ALCAINE, JORGE | [test repo](https://github.com/sanz1995/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/sanz1995/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/sanz1995/lab3-restful-ws)
 534521 | SANZ VIDAL, AITOR | [test repo](https://github.com/aitorsanz/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/aitorsanz/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/aitorsanz/lab3-restful-ws)
 618051 | TOLON MARTÍN, CARLOS JAVIER | [test repo](https://github.com/ctolon22/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/ctolon22/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/ctolon22/lab3-restful-ws)
 643821 | VELA GARCÍA, JUAN

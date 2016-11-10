@@ -15,7 +15,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 535621 | FRÍAS ZAPATER, MARTA ALMUDENA
 680258 | GARCIA DE QUIROS GIMENEZ, JORGE
 680669 | GUIU PÉREZ, ALEJANDRO
-682531 | JUAN CIRIACO, ÁLVARO
+682531 | JUAN CIRIACO, ÁLVARO | [test repo] (https://github.com/aJuanCiri/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/aJuanCiri/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/aJuanCiri/lab3-restful-ws)
 544393 | LAHOZ EGEA, CRISTINA
 622612 | MARTIN SEGURA, SERGIO
 681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/Belberus/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/Belberus/lab3-restful-ws)

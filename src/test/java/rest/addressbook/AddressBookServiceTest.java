@@ -57,7 +57,7 @@ public class AddressBookServiceTest {
  
  		// The addess stills the same
  		assertEquals(0, response2.readEntity(AddressBook.class).getPersonList().size());
-  	}
+
 	}
 
 	@Test
